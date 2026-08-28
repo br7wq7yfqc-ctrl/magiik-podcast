@@ -12,7 +12,7 @@
     </itunes:owner>
     <description>ИИ как инструмент роста, без серых схем. Сценарий написан заранее, голоса синтетические.</description>
     <itunes:summary>ИИ как инструмент роста, без серых схем. Сценарий написан заранее, голоса синтетические.</itunes:summary>
-    <itunes:image href="https://raw.githubusercontent.com/br7wq7yfqc-ctrl/magiik-podcast/main/cover-2048.jpg"/>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/cover-2048.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://raw.githubusercontent.com/br7wq7yfqc-ctrl/magiik-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
