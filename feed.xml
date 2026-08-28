@@ -10,20 +10,31 @@
       <itunes:name>магИИк</itunes:name>
       <itunes:email>deusexobscura@gmail.com</itunes:email>
     </itunes:owner>
-    <description>ИИ как инструмент роста, без серых схем. Сценарий написан заранее, голоса синтетические.</description>
-    <itunes:summary>ИИ как инструмент роста, без серых схем. Сценарий написан заранее, голоса синтетические.</itunes:summary>
+    <description>магИИк — разговорный подкаст об искусственном интеллекте как инструменте роста, без серых схем и чужих обещаний. Сценарии пишутся заранее; голоса синтетические. Музыкальная подложка своя — чужой музыки в выпусках нет.</description>
+    <itunes:summary>магИИк — разговорный подкаст об ИИ как инструменте роста. Сценарии пишутся заранее, голоса синтетические, подложка своя: чужой музыки нет.</itunes:summary>
     <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/cover-2048.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Чат-бот придумал возврат</title>
+      <description>Выпуск 2 подкаста магИИк: казус Моффат против Эйр Канада, 2024 BCCRT 149. Чат-бот придумал траурный тариф, трибунал присудил 812,02 CAD. Сценарий написан заранее, голоса синтетические, подложка своя, чужой музыки нет. Официальный текст решения: https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do</description>
+      <itunes:summary>Чат-бот Эйр Канада придумал возврат. Казус Моффат, 2024 BCCRT 149, 812,02 CAD. Сценарий заранее, синтетика, своя подложка, чужой музыки нет.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep02/magiik-ep02-air-canada.mp3" type="audio/mpeg" length="19058344"/>
+      <guid isPermaLink="false">magiik-ep02-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 08:30:00 +0000</pubDate>
+      <itunes:duration>0:12:42</itunes:duration>
+      <link>https://t.me/aimageek/19</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Какого агента включать</title>
-      <description>Выпуск 1 подкаста магИИк: какого агента включать, если вам уже обещают руки на компьютере. сценарий написан заранее, голоса синтетические. Чужой музыки нет. Факты из разбора на стене и в канале на 27 августа 2026.</description>
-      <itunes:summary>Выпуск 1 подкаста магИИк: какого агента включать. Сценарий написан заранее, голоса синтетические.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep01/magiik-ep01-kakogo-agenta.mp3" type="audio/mpeg" length="22804862"/>
+      <description>Выпуск 1 подкаста магИИк: какого агента включать, если вам уже обещают руки на компьютере. Сценарий написан заранее, голоса синтетические. Своя подложка, чужой музыки нет. Длительность 15:27.</description>
+      <itunes:summary>Какого агента включать. Сценарий заранее, синтетика, своя подложка, чужой музыки нет. 15:27.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep01/magiik-ep01-kakogo-agenta.mp3" type="audio/mpeg" length="23021418"/>
       <guid isPermaLink="false">magiik-ep01-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
-      <itunes:duration>0:15:18</itunes:duration>
+      <itunes:duration>0:15:27</itunes:duration>
       <link>https://t.me/aimageek/18</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
