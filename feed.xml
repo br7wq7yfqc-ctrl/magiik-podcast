@@ -15,7 +15,7 @@
     <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/cover-2048.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
-    <atom:link href="https://raw.githubusercontent.com/br7wq7yfqc-ctrl/magiik-podcast/main/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Какого агента включать</title>
       <description>Выпуск 1 подкаста магИИк: какого агента включать, если вам уже обещают руки на компьютере. сценарий написан заранее, голоса синтетические. Чужой музыки нет. Факты из разбора на стене и в канале на 27 августа 2026.</description>
