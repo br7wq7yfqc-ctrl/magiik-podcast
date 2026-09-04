@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Чат-бот уволил адвоката</title>
+      <description>Четвёртый выпуск подкаста «магИИк» — развлекательный казус: чат-бот сказал Грасьеле Дела Торре, что её живой адвокат газлайтит, она его уволила, а Ниппон Лайф подала в суд на Оупенэйай. Жалоба 4 марта 2026, Северный округ Иллинойса. Сценарий написан заранее, голоса синтетические, своя подложка, чужой музыки нет.
+
+Жалоба: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.496515/gov.uscourts.ilnd.496515.1.0.pdf
+Национал Ло Ривью: https://natlawreview.com/article/case-was-settled-chatgpt-thought-otherwise-dispute-poised-define-ai-legal-liability
+Нью-Йорк Пост: https://nypost.com/2026/03/06/us-news/blowhard-chatgpt-bot-posed-as-lawyer-convinced-woman-to-fire-her-real-attorney-while-citing-phony-case-law-suit/</description>
+      <itunes:summary>Чат-бот уволил адвоката. Казус Ниппон Лайф против Оупенэйай, март 2026. Сценарий заранее, синтетика, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep04/magiik-ep04-chatbot-lawyer.mp3" type="audio/mpeg" length="14544762"/>
+      <guid isPermaLink="false">magiik-ep04-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:09:34</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Сноски, которых не было</title>
       <description>Третий выпуск подкаста «магИИк» — кейс Делойт и ведомства занятости Австралии: в отчёте на двести тридцать семь страниц стояли книга и цитата судьи, которых не было. Сценарий написан заранее, голоса синтетические: Медоед и Ревизор, своя подложка, чужой музыки нет.
 
