@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Четыре дела, которых нет</title>
+      <description>Пятый выпуск подкаста «магИИк» — понедельничный кейс: в апелляционном брифе Дойче Банк Нэшнл Траст суд округа Колумбия нашёл четыре дела, которых нет. Адвокат Лойширл Холл признала генеративный поиск Гугла без проверки; бриф сняли целиком, дело ушло в дисциплинарный офис. Приказ от 3 сентября 2026. Сценарий написан заранее, голоса синтетические: Медоед и Ревизор, своя подложка, чужой музыки нет.
+
+Приказ суда (PDF): https://www.dccourts.gov/sites/default/files/2026-09/Douglas%20v.%20Deutsche%20Bank%20Nat%27l%20Trt%20Co.%2024-CV-1099%20ORDER.pdf
+Эй-би-эй Джорнал: https://www.abajournal.com/news/article/dc-circuit-blames-deutsche-bank-lawyers-for-ai-hallucinations
+КомплексДискавери: https://complexdiscovery.com/d-c-s-highest-court-struck-a-brief-over-four-fake-citations-and-called-its-own-sanctions-authority-unclear/</description>
+      <itunes:summary>Кейс Дойче Банк: в апелляционном брифе суда округа Колумбия стояли четыре дела, которых нет. Бриф сняли целиком. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep05/magiik-ep05-chetyre-dela.mp3" type="audio/mpeg" length="11000272"/>
+      <guid isPermaLink="false">magiik-ep05-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:07:07</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Чат-бот уволил адвоката</title>
       <description>Четвёртый выпуск подкаста «магИИк» — развлекательный казус: чат-бот сказал Грасьеле Дела Торре, что её живой адвокат газлайтит, она его уволила, а Ниппон Лайф подала в суд на Оупенэйай. Жалоба 4 марта 2026, Северный округ Иллинойса. Сценарий написан заранее, голоса синтетические, своя подложка, чужой музыки нет.
 
