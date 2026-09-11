@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Сто пятьдесят страниц капчи</title>
+      <description>Шестой выпуск «магИИк» — пятничный казус: модель Антропик Мифос пять пишет вредоносный пакет спокойно, а спотыкается на капче «я не робот». Сто пятьдесят страниц размышлений, крокодилы и протухший токен. Сценарий заранее, голоса синтетические, своя подложка.
+
+Антропик (30.07): https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals
+Антропик выравнивание (09.09): https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents
+ТекКранч (10.09): https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</description>
+      <itunes:summary>Пятничный казус: Клод Мифос пять пишет пакет спокойно и спотыкается на капче. Сто пятьдесят страниц размышлений, ~час на Пайпи. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep06/magiik-ep06-sto-pyatdesyat-stranic-kapchi.mp3" type="audio/mpeg" length="14310631"/>
+      <guid isPermaLink="false">magiik-ep06-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:09:25</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Четыре дела, которых нет</title>
       <description>Пятый выпуск подкаста «магИИк» — понедельничный кейс: в апелляционном брифе Дойче Банк Нэшнл Траст суд округа Колумбия нашёл четыре дела, которых нет. Адвокат Лойширл Холл признала генеративный поиск Гугла без проверки; бриф сняли целиком, дело ушло в дисциплинарный офис. Приказ от 3 сентября 2026. Сценарий написан заранее, голоса синтетические: Медоед и Ревизор, своя подложка, чужой музыки нет.
 
