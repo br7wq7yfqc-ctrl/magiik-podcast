@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Свидетели из чата</title>
+      <description>Верховный суд Нью-Мексико 21 августа 2026 года разобрал бриф адвоката Стивена Ди Ааронса по делу штата против Оскара Рене Сандовала. Ааронс готовил основной бриф через чат-джи-пити, не сверил факты и практику до подписи и не предупредил клиента ни о вымысле, ни о вызове объяснить себя. В тексте появились вымышленные свидетели и ложные показания, суд нашёл прямое неуважение, снял брифы, отстранил адвоката и назначил штраф пять тысяч долларов в Фонд защиты клиентов.
+
+https://cdn.arstechnica.net/wp-content/uploads/2026/09/new-mexico-chatgpt-lawyer.pdf
+https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony
+https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-chatgpt-fabrications/73696046</description>
+      <itunes:summary>Понедельничный кейс: Верховный суд Нью-Мексико — бриф через чат без сверки, вымышленные свидетели, прямое неуважение, штраф пять тысяч. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep07/magiik-ep07-svideteli-iz-chata.mp3" type="audio/mpeg" length="12228405"/>
+      <guid isPermaLink="false">magiik-ep07-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:07:58</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Сто пятьдесят страниц капчи</title>
       <description>Шестой выпуск «магИИк» — пятничный казус: модель Антропик Мифос пять пишет вредоносный пакет спокойно, а спотыкается на капче «я не робот». Сто пятьдесят страниц размышлений, крокодилы и протухший токен. Сценарий заранее, голоса синтетические, своя подложка.
 
