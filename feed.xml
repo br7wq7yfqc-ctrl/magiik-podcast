@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Черновик американского закона</title>
+      <description>Пятничный казус «магИИк»: нейросеть пишет черновик американского закона, а люди потом чинят ссылки и определения. Офис законодательного советника Палаты тонет в таких текстах, хотя ни один билль, по которому палата или сенат уже голосовали, не показан целиком как написанный моделью. Прежде чем просить «напиши норму», стоит назвать инструмент, круг лиц и открыть статью кодекса. Сценарий заранее, голоса синтетические, своя подложка.
+
+Politico: https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01008376
+Показания Уоррена Бёрка: https://docs.house.gov/meetings/AP/AP24/20260317/119054/HHRG-119-AP24-Wstate-BurkeW-20260317.pdf
+The Next Web: https://thenextweb.com/news/ai-drafted-bills-house-legislative-counsel-swamped</description>
+      <itunes:summary>Пятничный казус: нейросеть пишет черновик американского закона, люди чинят ссылки и определения. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep08/magiik-ep08-chernovik-zakona.mp3" type="audio/mpeg" length="10199375"/>
+      <guid isPermaLink="false">magiik-ep08-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:07:05</itunes:duration>
+      <link>https://t.me/aimageek/146</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Свидетели из чата</title>
       <description>Верховный суд Нью-Мексико 21 августа 2026 года разобрал бриф адвоката Стивена Ди Ааронса по делу штата против Оскара Рене Сандовала. Ааронс готовил основной бриф через чат-джи-пити, не сверил факты и практику до подписи и не предупредил клиента ни о вымысле, ни о вызове объяснить себя. В тексте появились вымышленные свидетели и ложные показания, суд нашёл прямое неуважение, снял брифы, отстранил адвоката и назначил штраф пять тысяч долларов в Фонд защиты клиентов.
 
