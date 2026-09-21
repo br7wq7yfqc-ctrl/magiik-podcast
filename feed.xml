@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Двадцать шесть процентов в поле</title>
+      <description>Понедельничный кейс «магИИк»: Цуй и коллеги прогнали Копайлот почти на пяти тысячах разработчиков в трёх компаниях. У тех, кто реально пользовался, около +26% еженедельных закрытых задач и пул-реквестов. Лаборатория Пэна обещала около +56% на одной задаче — на практике меньше. Треть разработчиков с доступом даже не пушила свои коммиты. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Чужой музыки нет.
+
+https://economics.mit.edu/sites/default/files/inline-files/draft_copilot_experiments.pdf
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
+https://arxiv.org/abs/2302.06590</description>
+      <itunes:summary>Понедельничный кейс: полевые РКИ Копайлота, около +26% задач у пользовавшихся. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep09/magiik-ep09-dvadtsat-shest-protsentov.mp3" type="audio/mpeg" length="18395521"/>
+      <guid isPermaLink="false">magiik-ep09-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>0:12:15</itunes:duration>
+      <link>https://vk.com/wall-241049162_74</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Черновик американского закона</title>
       <description>Пятничный казус «магИИк»: нейросеть пишет черновик американского закона, а люди потом чинят ссылки и определения. Офис законодательного советника Палаты тонет в таких текстах, хотя ни один билль, по которому палата или сенат уже голосовали, не показан целиком как написанный моделью. Прежде чем просить «напиши норму», стоит назвать инструмент, круг лиц и открыть статью кодекса. Сценарий заранее, голоса синтетические, своя подложка.
 
