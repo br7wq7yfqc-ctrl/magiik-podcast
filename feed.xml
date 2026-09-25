@@ -17,6 +17,21 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Мадагаскар на форуме курса</title>
+      <description>Пятничный казус «магИИк»: преподаватель истории из Олкорнского университета спрятал в задании промежуточного экзамена строку белым шрифтом — вставить в ответ слово «Мадагаскар» так, чтобы оно не имело смысла. Остров нашёлся в 32 работах из 35. Разбираем, почему модель послушно выполнила невидимую команду, что изменила тёмная тема экрана в одной из апелляций и чем такая ловушка отличается от обычной проверки знаний. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
+
+https://www.usatoday.com/story/news/education/2026/07/29/college-instructor-catches-students-using-ai-midterm-viral/91091359007/
+https://www.nbcmiami.com/news/national-international/professor-catches-students-ai-cheating-hidden-word/3839282/
+https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864</description>
+      <itunes:summary>Пятничный казус: белая строка «Мадагаскар» в задании экзамена поймала 32 работы из 35. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep10/magiik-ep10-madagaskar-na-forume.mp3" type="audio/mpeg" length="20285799"/>
+      <guid isPermaLink="false">magiik-ep10-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 18:45:00 +0000</pubDate>
+      <itunes:duration>0:13:47</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Двадцать шесть процентов в поле</title>
       <description>Понедельничный кейс «магИИк»: Цуй и коллеги прогнали Копайлот почти на пяти тысячах разработчиков в трёх компаниях. У тех, кто реально пользовался, около +26% еженедельных закрытых задач и пул-реквестов. Лаборатория Пэна обещала около +56% на одной задаче — на практике меньше. Треть разработчиков с доступом даже не пушила свои коммиты. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Чужой музыки нет.
 
