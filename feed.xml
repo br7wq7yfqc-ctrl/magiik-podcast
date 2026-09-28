@@ -17,6 +17,24 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Письмо учёному: «Мой чат-бот осознал себя»</title>
+      <description>Понедельничный кейс «магИИк»: исследователям сознания пишут обычные пользователи — живой ли мой чат-бот и можно ли к нему привязаться. Разбираем, что говорят Мустафа Сулейман, обзор Батлина, Лонга и соавторов (2023), Джоанн Джанг из OpenAI и публикации Anthropic о самонаблюдении нейросети и её возможных переживаниях, и кто на самом деле вкладывает в ответ бота «мне одиноко». Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
+
+https://mustafa-suleyman.ai/seemingly-conscious-ai-is-coming
+https://arxiv.org/abs/2308.08708
+https://www.anthropic.com/research/introspection
+https://www.anthropic.com/research/exploring-model-welfare
+https://reservoirsamples.substack.com/p/some-thoughts-on-human-ai-relationships
+https://www.anthropic.com/constitution</description>
+      <itunes:summary>Понедельничный кейс: бот пишет «мне одиноко» — это он сам или те, кто его дообучал? Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep11/magiik-ep11-pismo-uchyonomu.mp3" type="audio/mpeg" length="10053075"/>
+      <guid isPermaLink="false">magiik-ep11-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 10:47:00 +0000</pubDate>
+      <itunes:duration>0:06:40</itunes:duration>
+      <link>https://t.me/aimageek</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Мадагаскар на форуме курса</title>
       <description>Пятничный казус «магИИк»: преподаватель истории из Олкорнского университета спрятал в задании промежуточного экзамена строку белым шрифтом — вставить в ответ слово «Мадагаскар» так, чтобы оно не имело смысла. Остров нашёлся в 32 работах из 35. Разбираем, почему модель послушно выполнила невидимую команду, что изменила тёмная тема экрана в одной из апелляций и чем такая ловушка отличается от обычной проверки знаний. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
 
