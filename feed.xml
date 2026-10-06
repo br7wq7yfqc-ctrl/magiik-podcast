@@ -17,6 +17,41 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Двадцать пять миллионов по видеозвонку</title>
+      <description>Сотрудник гонконгского офиса компании Аруп вышел на видеозвонок с финансовым директором и коллегами, и настоящим на этом звонке был только он сам. Двадцать пять миллионов долларов ушли мошенникам, но сценарий этой сцены писали люди, а нейросеть сыграла в ней роль подделанной подписи. Директор компании по информационным технологиям потом сказал, что обманывать ради выгоды пытались всегда, новое здесь только инструмент. Поэтому спасает не страх перед ИИ, а скучная процедура: второй подписант, перезвон по известному номеру и привычка останавливаться, когда торопят. Эту привычку можно натренировать, в том числе с помощью той же нейросети. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
+
+https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk
+https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk
+https://www.info.gov.hk/gia/general/202406/26/P2024062600192p.htm
+https://www.weforum.org/stories/2025/02/deepfake-ai-cybercrime-arup/
+https://internationalaisafetyreport.org/publication/2026-report-executive-summary
+https://blog.samaltman.com/the-gentle-singularity</description>
+      <itunes:summary>Кейс Arup: дипфейк на видеозвонке и ~$25 млн. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep13/magiik-ep13-dvadtsat-pyat-millionov.mp3" type="audio/mpeg" length="24852477"/>
+      <guid isPermaLink="false">magiik-ep13-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 14:37:00 +0000</pubDate>
+      <itunes:duration>0:16:52</itunes:duration>
+      <link>https://t.me/aimageek/285</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Play Minecraft на America.gov: почему официальный бот внезапно заговорил поэмой</title>
+      <description>Пятничный казус «магИИк»: на официальном портале правительства США бот в ответ на «Play Minecraft» выдаёт почти две тысячи слов бюрократической переделки финальной поэмы Minecraft — про избирателя, республику, формы и почтовый индекс. Разбираем, почему это не сбой нейросети, а заранее заложенная пасхалка, что сказал Адам Бхалу из National Design Studio и почему ответ официального бота по госуслуге всё равно нужно проверять по первоисточнику. Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
+
+https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/
+https://gizmodo.com/trumps-new-america-gov-chatbot-seems-to-drop-acid-when-you-tell-it-to-play-minecraft-2000819161
+https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem
+https://www.foxnews.com/politics/trumps-new-high-tech-government-hub-holds-some-bizarre-surprises-enjoy-finding-them
+https://news.ycombinator.com/item?id=49913255</description>
+      <itunes:summary>Пятничный казус: официальный бот America.gov читает поэму про почтовый индекс — пасхалка рядом со справкой по госуслугам. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep12/magiik-ep12-play-minecraft.mp3" type="audio/mpeg" length="13136595"/>
+      <guid isPermaLink="false">magiik-ep12-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 09:53:00 +0000</pubDate>
+      <itunes:duration>0:08:45</itunes:duration>
+      <link>https://t.me/aimageek/260</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Письмо учёному: «Мой чат-бот осознал себя»</title>
       <description>Понедельничный кейс «магИИк»: исследователям сознания пишут обычные пользователи — живой ли мой чат-бот и можно ли к нему привязаться. Разбираем, что говорят Мустафа Сулейман, обзор Батлина, Лонга и соавторов (2023), Джоанн Джанг из OpenAI и публикации Anthropic о самонаблюдении нейросети и её возможных переживаниях, и кто на самом деле вкладывает в ответ бота «мне одиноко». Сценарий написан заранее, голоса синтетические: Медоед и Эгида. Своя подложка, чужой музыки нет.
 
