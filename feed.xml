@@ -17,6 +17,25 @@
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Двести тысяч нейронов против Doom: клетки на чипе играют как новичок, а рецензии на опыт нет</title>
+      <description>магИИк, выпуск 16. Двести тысяч нейронов против Doom: клетки на чипе играют как новичок, а рецензии на опыт нет
+
+Cortical Labs продаёт CL1, чип с живыми человеческими нейронами, выращенными из крови или кожи доноров. В феврале 2026-го Шон Коул примерно за неделю подключил культуру из 200 тысяч нейронов к Doom 1993 года. Компания сама говорит: играют как новичок, много умирают, но учатся. Скептики спрашивают, кто на самом деле играет — клетки или кремниевый переводчик, а рецензируемой статьи про Doom пока нет. Сценарий написан заранее, голоса синтетические: Медоед и Эгида.
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527
+
+https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week/
+https://www.rdworldonline.com/the-neurons-playing-doom-are-actually-testing-a-theory-of-intelligence/
+https://github.com/SeanCole02/doom-neuron</description>
+      <itunes:summary>Человеческие нейроны на чипе Cortical Labs играют в Doom как новичок, а рецензируемой статьи пока нет. Сценарий заранее, голоса синтетические.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep16/magiik-ep16-dvesti-tysyach-nejronov-protiv-doom.mp3" type="audio/mpeg" length="23819782"/>
+      <guid isPermaLink="false">magiik-ep16-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 14:38:06 +0000</pubDate>
+      <itunes:duration>0:16:07</itunes:duration>
+      <link>https://t.me/aimageek/332</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Репетитор в кармане: как студенты Гарварда усвоили физику вдвое быстрее — и где «голый» чат GPT вредит</title>
       <description>магИИк, выпуск 15. Репетитор в кармане: как студенты Гарварда усвоили физику вдвое быстрее — и где «голый» чат GPT вредит
 
