@@ -25,7 +25,36 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
+        <item>
+      <title>Одиннадцать долларов за голос родственника</title>
+      <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
+
+Одиннадцать долларов за голос родственника
+
+Пятничный казус: журналисты Кей Эм Би Си собрали клон голоса ведущей с публичных роликов программой за одиннадцать долларов — и двоюродная сестра поверила, что говорит с ней. Рядом свежий случай из Колкаты: знакомый голос, «ребёнок в больнице», поддельные квитанции и перевод на один целый два лакха рупий. Разбираем, почему голос на линии больше ничего не доказывает и что проверить по другому каналу.
+
+Таймкоды (14:51):
+0:00 Вступление
+0:05 Демо Кей Эм Би Си за одиннадцать долларов
+1:40 Колката: звонок, больница, Ю Пи Ай
+3:20 Как учится клон голоса
+6:55 Что меняется для человека
+9:16 Что делать, когда звонит «знакомый»
+13:12 Совет киберкрыла и итог
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>Журналисты собрали клон голоса за 11 долларов — сестра поверила. В Колкате знакомый голос и «ребёнок в больнице» стоили 1,2 лакха рупий. Почему голос на линии больше ничего не доказывает.</itunes:summary>
+      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep22/magiik-ep22-odinnadcat-dollarov-za-golos-rodstvennika.mp3" type="audio/mpeg" length="21634386"/>
+      <guid isPermaLink="false">magiik-ep22-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 14:18:46 +0300</pubDate>
+      <itunes:duration>0:14:51</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep22-cover.jpg"/>
+      <link>https://t.me/aimageek/434</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+<item>
       <title>Аудиокнига без чтеца: когда синтетический голос окупается</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
 
