@@ -25,6 +25,7 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 11 Nov 2026 08:38:23 +0300</lastBuildDate>
     <item>
       <title>Агенту дали право подписи</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
@@ -46,7 +47,7 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>«Норникель» с «Рексофт» внедряет ИИ-агентов в бюджетный контроль: по словам компании, агент проверяет до 80% аналитики по договору и в отдельных сценариях сам согласует заказ на поставку. Где кончается помощник и начинается право подписи.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep23/magiik-ep23-agentu-dali-pravo-podpisi.mp3" type="audio/mpeg" length="18867073"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep23-agentu-dali-pravo-podpisi.mp3" type="audio/mpeg" length="18867073"/>
       <guid isPermaLink="false">magiik-ep23-2026-11-09</guid>
       <pubDate>Mon, 09 Nov 2026 14:26:33 +0300</pubDate>
       <itunes:duration>0:12:58</itunes:duration>
@@ -74,7 +75,7 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Журналисты собрали клон голоса за 11 долларов — сестра поверила. В Колкате знакомый голос и «ребёнок в больнице» стоили 1,2 лакха рупий. Почему голос на линии больше ничего не доказывает.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep22/magiik-ep22-odinnadcat-dollarov-za-golos-rodstvennika.mp3" type="audio/mpeg" length="21634386"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep22-odinnadcat-dollarov-za-golos-rodstvennika.mp3" type="audio/mpeg" length="21634386"/>
       <guid isPermaLink="false">magiik-ep22-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 14:18:46 +0300</pubDate>
       <itunes:duration>0:14:51</itunes:duration>
@@ -115,7 +116,7 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Небольшое издательство, сто книг без аудиоверсии: что отдать синтезу, что живому чтецу. Разбираем на придуманном примере и настоящих цифрах Литрес, Яндекс Книг, Audible и опроса Audio Publishers Association.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep21/magiik-ep21-audiokniga-bez-chteca.mp3" type="audio/mpeg" length="30493422"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep21-audiokniga-bez-chteca.mp3" type="audio/mpeg" length="30493422"/>
       <guid isPermaLink="false">magiik-ep21-2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 16:28:54 +0300</pubDate>
       <itunes:duration>0:21:03</itunes:duration>
@@ -154,7 +155,7 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Исследовательница из Гётеборга выдумала болезнь глаз «биксонимания» и оставила в статьях явные приметы фейка. Copilot, Gemini, Perplexity и ChatGPT всё равно описывали её как настоящую, а рецензируемый журнал процитировал препринт и потом отозвал статью.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep20/magiik-ep20-bolezn-kotoroi-net.mp3" type="audio/mpeg" length="28364934"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep20-bolezn-kotoroi-net.mp3" type="audio/mpeg" length="28364934"/>
       <guid isPermaLink="false">magiik-ep20-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 11:54:43 +0300</pubDate>
       <itunes:duration>0:19:36</itunes:duration>
@@ -189,7 +190,7 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Микробиологи из Imperial College London годами выясняли, как одинаковые генетические «спутники» фагов попадают в бактерии разных видов. Нейросеть Google AI co-scientist за двое суток предложила ту же гипотезу, что лежала в их неопубликованной рукописи.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep19/magiik-ep19-dva-dnya-protiv-desyati-let.mp3" type="audio/mpeg" length="26444673"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep19-dva-dnya-protiv-desyati-let.mp3" type="audio/mpeg" length="26444673"/>
       <guid isPermaLink="false">magiik-ep19-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 12:53:12 +0000</pubDate>
       <itunes:duration>0:17:59</itunes:duration>
@@ -208,10 +209,11 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Она нанимает сотрудников, составляет график, одобряет отгулы, распоряжается деньгами и отвечает в рабочем чате. При этом может забыть собственные правила, придумать несуществующий товар и согласиться на просьбу, не проверив последствия.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep18/magiik-ep18-nachalnica-po-imeni-luna.mp3" type="audio/mpeg" length="40847664"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep18-nachalnica-po-imeni-luna.mp3" type="audio/mpeg" length="40847664"/>
       <guid isPermaLink="false">magiik-ep18-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 12:08:31 +0000</pubDate>
       <itunes:duration>0:28:03</itunes:duration>
+      <itunes:episode>18</itunes:episode>
       <link>https://t.me/aimageek/359</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -228,10 +230,11 @@
 
 Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
       <itunes:summary>Заявки в малом бизнесе редко теряются громко. Обычно они исчезают между сообщениями в личке, строками в таблице и обещанием ответить позже.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep17/magiik-ep17-zayavka-v-pyatnicu-vecherom.mp3" type="audio/mpeg" length="41399990"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep17-zayavka-v-pyatnicu-vecherom.mp3" type="audio/mpeg" length="41399990"/>
       <guid isPermaLink="false">magiik-ep17-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 15:28:06 +0000</pubDate>
       <itunes:duration>0:28:24</itunes:duration>
+      <itunes:episode>17</itunes:episode>
       <link>https://t.me/aimageek/354</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -247,10 +250,11 @@ https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned
 https://www.rdworldonline.com/the-neurons-playing-doom-are-actually-testing-a-theory-of-intelligence/
 https://github.com/SeanCole02/doom-neuron</description>
       <itunes:summary>Человеческие нейроны на чипе Cortical Labs играют в Doom как новичок, а рецензируемой статьи пока нет. Сценарий заранее, голоса синтетические.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep16/magiik-ep16-dvesti-tysyach-nejronov-protiv-doom.mp3" type="audio/mpeg" length="23819782"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep16-dvesti-tysyach-nejronov-protiv-doom.mp3" type="audio/mpeg" length="23819782"/>
       <guid isPermaLink="false">magiik-ep16-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 14:38:06 +0000</pubDate>
       <itunes:duration>0:16:07</itunes:duration>
+      <itunes:episode>16</itunes:episode>
       <link>https://t.me/aimageek/332</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -266,10 +270,11 @@ https://www.pnas.org/doi/10.1073/pnas.2422633122
 https://t.me/aimageek
 https://vk.com/aimageek</description>
       <itunes:summary>ИИ-репетитор в Гарварде, Нигерии и Турции: когда нейросеть ускоряет учёбу, а когда мешает. Сценарий заранее, голоса синтетические.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep15/magiik-ep15-repetitor-v-karmane.mp3" type="audio/mpeg" length="22387121"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep15-repetitor-v-karmane.mp3" type="audio/mpeg" length="22387121"/>
       <guid isPermaLink="false">magiik-ep15-2026-10-12</guid>
       <pubDate>Mon, 12 Oct 2026 10:09:21 +0000</pubDate>
       <itunes:duration>0:15:14</itunes:duration>
+      <itunes:episode>15</itunes:episode>
       <link>https://t.me/aimageek/314</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -287,10 +292,11 @@ https://openai.com/index/hugging-face-incident-and-the-road-ahead/
 https://internationalaisafetyreport.org/publication/2026-report-executive-summary
 https://arxiv.org/abs/2609.28274</description>
       <itunes:summary>Почему нейросеть мешает себя выключить: опыты Palisade, DeepMind, Anthropic, Apollo. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep14/magiik-ep14-nelzya-prinesti-kofe.mp3" type="audio/mpeg" length="36766477"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep14-nelzya-prinesti-kofe.mp3" type="audio/mpeg" length="36766477"/>
       <guid isPermaLink="false">magiik-ep14-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 14:23:01 +0000</pubDate>
       <itunes:duration>0:25:07</itunes:duration>
+      <itunes:episode>14</itunes:episode>
       <link>https://t.me/aimageek/290</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -305,10 +311,11 @@ https://www.weforum.org/stories/2025/02/deepfake-ai-cybercrime-arup/
 https://internationalaisafetyreport.org/publication/2026-report-executive-summary
 https://blog.samaltman.com/the-gentle-singularity</description>
       <itunes:summary>Кейс Arup: дипфейк на видеозвонке и ~$25 млн. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep13/magiik-ep13-dvadtsat-pyat-millionov.mp3" type="audio/mpeg" length="24852477"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep13-dvadtsat-pyat-millionov.mp3" type="audio/mpeg" length="24852477"/>
       <guid isPermaLink="false">magiik-ep13-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 14:37:00 +0000</pubDate>
       <itunes:duration>0:16:52</itunes:duration>
+      <itunes:episode>13</itunes:episode>
       <link>https://t.me/aimageek/285</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -322,10 +329,11 @@ https://decrypt.co/379739/america-gov-ai-chatbot-minecraft-end-poem
 https://www.foxnews.com/politics/trumps-new-high-tech-government-hub-holds-some-bizarre-surprises-enjoy-finding-them
 https://news.ycombinator.com/item?id=49913255</description>
       <itunes:summary>Пятничный казус: официальный бот America.gov читает поэму про почтовый индекс — пасхалка рядом со справкой по госуслугам. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep12/magiik-ep12-play-minecraft.mp3" type="audio/mpeg" length="13136595"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep12-play-minecraft.mp3" type="audio/mpeg" length="13136595"/>
       <guid isPermaLink="false">magiik-ep12-2026-10-02</guid>
       <pubDate>Fri, 02 Oct 2026 09:53:00 +0000</pubDate>
       <itunes:duration>0:08:45</itunes:duration>
+      <itunes:episode>12</itunes:episode>
       <link>https://t.me/aimageek/260</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -340,10 +348,11 @@ https://www.anthropic.com/research/exploring-model-welfare
 https://reservoirsamples.substack.com/p/some-thoughts-on-human-ai-relationships
 https://www.anthropic.com/constitution</description>
       <itunes:summary>Понедельничный кейс: бот пишет «мне одиноко» — это он сам или те, кто его дообучал? Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep11/magiik-ep11-pismo-uchyonomu.mp3" type="audio/mpeg" length="10053075"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep11-pismo-uchyonomu.mp3" type="audio/mpeg" length="10053075"/>
       <guid isPermaLink="false">magiik-ep11-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 10:47:00 +0000</pubDate>
       <itunes:duration>0:06:40</itunes:duration>
+      <itunes:episode>11</itunes:episode>
       <link>https://t.me/aimageek/240</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -355,10 +364,11 @@ https://www.usatoday.com/story/news/education/2026/07/29/college-instructor-catc
 https://www.nbcmiami.com/news/national-international/professor-catches-students-ai-cheating-hidden-word/3839282/
 https://www.theregister.com/ai-and-ml/2026/07/28/college-prof-hides-prompt-to-catch-ai-cheaters-finds-human-nature-is-pretty-much-as-we-thought/5279864</description>
       <itunes:summary>Пятничный казус: белая строка «Мадагаскар» в задании экзамена поймала 32 работы из 35. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep10/magiik-ep10-madagaskar-na-forume.mp3" type="audio/mpeg" length="20285799"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep10-madagaskar-na-forume.mp3" type="audio/mpeg" length="20285799"/>
       <guid isPermaLink="false">magiik-ep10-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 18:45:00 +0000</pubDate>
       <itunes:duration>0:13:47</itunes:duration>
+      <itunes:episode>10</itunes:episode>
       <link>https://t.me/aimageek/227</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -370,10 +380,11 @@ https://economics.mit.edu/sites/default/files/inline-files/draft_copilot_experim
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4945566
 https://arxiv.org/abs/2302.06590</description>
       <itunes:summary>Понедельничный кейс: полевые РКИ Копайлота, около +26% задач у пользовавшихся. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep09/magiik-ep09-dvadtsat-shest-protsentov.mp3" type="audio/mpeg" length="18395521"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep09-dvadtsat-shest-protsentov.mp3" type="audio/mpeg" length="18395521"/>
       <guid isPermaLink="false">magiik-ep09-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:12:15</itunes:duration>
+      <itunes:episode>9</itunes:episode>
       <link>https://vk.com/wall-241049162_74</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -385,10 +396,11 @@ Politico: https://www.politico.com/news/2026/08/17/ai-slop-lawmakers-congress-01
 Показания Уоррена Бёрка: https://docs.house.gov/meetings/AP/AP24/20260317/119054/HHRG-119-AP24-Wstate-BurkeW-20260317.pdf
 The Next Web: https://thenextweb.com/news/ai-drafted-bills-house-legislative-counsel-swamped</description>
       <itunes:summary>Пятничный казус: нейросеть пишет черновик американского закона, люди чинят ссылки и определения. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep08/magiik-ep08-chernovik-zakona.mp3" type="audio/mpeg" length="10199375"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep08-chernovik-zakona.mp3" type="audio/mpeg" length="10199375"/>
       <guid isPermaLink="false">magiik-ep08-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:07:05</itunes:duration>
+      <itunes:episode>8</itunes:episode>
       <link>https://t.me/aimageek/146</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -400,10 +412,11 @@ https://cdn.arstechnica.net/wp-content/uploads/2026/09/new-mexico-chatgpt-lawyer
 https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony
 https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-chatgpt-fabrications/73696046</description>
       <itunes:summary>Понедельничный кейс: Верховный суд Нью-Мексико — бриф через чат без сверки, вымышленные свидетели, прямое неуважение, штраф пять тысяч. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep07/magiik-ep07-svideteli-iz-chata.mp3" type="audio/mpeg" length="12228405"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep07-svideteli-iz-chata.mp3" type="audio/mpeg" length="12228405"/>
       <guid isPermaLink="false">magiik-ep07-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:07:58</itunes:duration>
+      <itunes:episode>7</itunes:episode>
       <link>https://t.me/aimageek/127</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -415,10 +428,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
 Антропик выравнивание (09.09): https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents
 ТекКранч (10.09): https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</description>
       <itunes:summary>Пятничный казус: Клод Мифос пять пишет пакет спокойно и спотыкается на капче. Сто пятьдесят страниц размышлений, ~час на Пайпи. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep06/magiik-ep06-sto-pyatdesyat-stranic-kapchi.mp3" type="audio/mpeg" length="14310631"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep06-sto-pyatdesyat-stranic-kapchi.mp3" type="audio/mpeg" length="14310631"/>
       <guid isPermaLink="false">magiik-ep06-2026-09-11</guid>
       <pubDate>Fri, 11 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:09:25</itunes:duration>
+      <itunes:episode>6</itunes:episode>
       <link>https://t.me/aimageek</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -430,10 +444,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
 Эй-би-эй Джорнал: https://www.abajournal.com/news/article/dc-circuit-blames-deutsche-bank-lawyers-for-ai-hallucinations
 КомплексДискавери: https://complexdiscovery.com/d-c-s-highest-court-struck-a-brief-over-four-fake-citations-and-called-its-own-sanctions-authority-unclear/</description>
       <itunes:summary>Кейс Дойче Банк: в апелляционном брифе суда округа Колумбия стояли четыре дела, которых нет. Бриф сняли целиком. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep05/magiik-ep05-chetyre-dela.mp3" type="audio/mpeg" length="11000272"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep05-chetyre-dela.mp3" type="audio/mpeg" length="11000272"/>
       <guid isPermaLink="false">magiik-ep05-2026-09-07</guid>
       <pubDate>Mon, 07 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:07:07</itunes:duration>
+      <itunes:episode>5</itunes:episode>
       <link>https://t.me/aimageek</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -445,10 +460,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
 Национал Ло Ривью: https://natlawreview.com/article/case-was-settled-chatgpt-thought-otherwise-dispute-poised-define-ai-legal-liability
 Нью-Йорк Пост: https://nypost.com/2026/03/06/us-news/blowhard-chatgpt-bot-posed-as-lawyer-convinced-woman-to-fire-her-real-attorney-while-citing-phony-case-law-suit/</description>
       <itunes:summary>Чат-бот уволил адвоката. Казус Ниппон Лайф против Оупенэйай, март 2026. Сценарий заранее, синтетика, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep04/magiik-ep04-chatbot-lawyer.mp3" type="audio/mpeg" length="14544762"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep04-chatbot-lawyer.mp3" type="audio/mpeg" length="14544762"/>
       <guid isPermaLink="false">magiik-ep04-2026-09-04</guid>
       <pubDate>Fri, 04 Sep 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:09:34</itunes:duration>
+      <itunes:episode>4</itunes:episode>
       <link>https://t.me/aimageek/52</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -477,10 +493,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
 Гардиан: https://www.theguardian.com/australia-news/2025/oct/06/deloitte-to-pay-money-back-to-albanese-government-after-using-ai-in-440000-report
 Винер, «Творец и робот»; Винер, «Человеческое использование человеческих существ» (рус. пер.).</description>
       <itunes:summary>Кейс Делойт: в отчёте для ведомства занятости Австралии стояли сноски на книгу и цитату судьи, которых не было. Сценарий заранее, голоса синтетические, своя подложка.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep03/magiik-ep03-snoski.mp3" type="audio/mpeg" length="10083398"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep03-snoski.mp3" type="audio/mpeg" length="10083398"/>
       <guid isPermaLink="false">magiik-ep03-2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:06:29</itunes:duration>
+      <itunes:episode>3</itunes:episode>
       <link>https://t.me/aimageek/33</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -488,10 +505,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
       <title>Чат-бот придумал возврат</title>
       <description>Выпуск 2 подкаста магИИк: казус Моффат против Эйр Канада, 2024 BCCRT 149. Чат-бот придумал траурный тариф, трибунал присудил 812,02 CAD. Сценарий написан заранее, голоса синтетические, подложка своя, чужой музыки нет. Официальный текст решения: https://decisions.civilresolutionbc.ca/crt/crtd/en/525448/1/document.do</description>
       <itunes:summary>Чат-бот Эйр Канада придумал возврат. Казус Моффат, 2024 BCCRT 149, 812,02 CAD. Сценарий заранее, синтетика, своя подложка, чужой музыки нет.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep02/magiik-ep02-air-canada.mp3" type="audio/mpeg" length="19058344"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep02-air-canada.mp3" type="audio/mpeg" length="19058344"/>
       <guid isPermaLink="false">magiik-ep02-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 08:30:00 +0000</pubDate>
       <itunes:duration>0:12:42</itunes:duration>
+      <itunes:episode>2</itunes:episode>
       <link>https://t.me/aimageek/19</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -499,10 +517,11 @@ https://www.koat.com/article/nm-supreme-court-punishes-lawyer-for-submitting-cha
       <title>Какого агента включать</title>
       <description>Выпуск 1 подкаста магИИк: какого агента включать, если вам уже обещают руки на компьютере. Сценарий написан заранее, голоса синтетические. Своя подложка, чужой музыки нет. Длительность 15:27.</description>
       <itunes:summary>Какого агента включать. Сценарий заранее, синтетика, своя подложка, чужой музыки нет. 15:27.</itunes:summary>
-      <enclosure url="https://github.com/br7wq7yfqc-ctrl/magiik-podcast/releases/download/ep01/magiik-ep01-kakogo-agenta.mp3" type="audio/mpeg" length="23021418"/>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep01-kakogo-agenta.mp3" type="audio/mpeg" length="23021418"/>
       <guid isPermaLink="false">magiik-ep01-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
       <itunes:duration>0:15:27</itunes:duration>
+      <itunes:episode>1</itunes:episode>
       <link>https://t.me/aimageek/18</link>
       <itunes:explicit>false</itunes:explicit>
     </item>
