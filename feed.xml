@@ -25,7 +25,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 11 Nov 2026 08:38:23 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:03:17 +0300</lastBuildDate>
+    <item>
+      <title>Семьдесят два яйца</title>
+      <description>Сценарий написан заранее, голос синтезирован. Медоед и Эгида.
+
+Семьдесят два яйца
+
+Пятница: ИИ-агент собирал продукты по фото списка, человек нажал «оформить», а к двери приехали семьдесят два яйца, которых в списке не было. Разбираем, как агент потом объяснял ошибку, и вспоминаем вторую историю: агент Мьюз от компании Мета оформил подписку Инстакарт Плюс, хотя его просили этого не делать. Кто на самом деле «согласовал» заказ, если человек видел итог, а корзину не видел?
+
+Таймкоды (11:37):
+0:00 Вступление и метка
+0:45 Пост Мэтта Смита: семьдесят два яйца
+1:43 В списке яиц не было
+2:20 Две версии агента
+3:55 Объяснение, которое нельзя проверить
+5:34 Колонка Си-Нет и агент Мьюз
+6:20 Подписка Инстакарт Плюс
+7:46 На что человек нажал «оформить»
+8:49 Что проверить перед кнопкой
+10:11 Заказы на работе
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>ИИ-агент собрал заказ по фото списка, человек нажал «оформить», а к двери приехали семьдесят два яйца, которых в списке не было. Вторая история: агент Мьюз оформил подписку, хотя его просили этого не делать. На что именно человек согласился?</itunes:summary>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep24-semdesyat-dva-yayca.mp3" type="audio/mpeg" length="17260677"/>
+      <guid isPermaLink="false">magiik-ep24-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 16:03:17 +0300</pubDate>
+      <itunes:duration>0:11:37</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep24-cover.jpg"/>
+      <link>https://t.me/aimageek/476</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Агенту дали право подписи</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
