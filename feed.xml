@@ -25,7 +25,42 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 13 Nov 2026 16:03:17 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:25:59 +0300</lastBuildDate>
+    <item>
+      <title>Платёж ушёл не туда</title>
+      <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
+
+Платёж ушёл не туда
+
+Понедельник: Ирина поручила ИИ-агенту оплатить счёт постоянного поставщика бумаги: не больше 87 тысяч рублей, по реквизитам из письма. За ночь пришло два похожих письма, агент оплатил чужое токеном карты. Разбираем, как откатывают такой платёж и почему обычная защита заточена под «я это не разрешал». Где кончается помощь агенту и начинается платёж, который трудно вернуть?
+
+Таймкоды (16:18):
+0:00 Вступление и метка
+0:26 История Ирины: платёж ушёл не туда
+1:38 Поручение было, но без точных реквизитов
+2:06 Цепочка отката
+3:14 Кошелёк ChatGPT и справка поддержки
+5:08 Visa и Mastercard: токен и регистрация агента
+6:29 Протокол AP2 и два режима покупки
+7:46 Защита American Express
+8:51 Бенчмарк Visa: агент покупает «не то»
+10:32 Кто платит: позиция Citi
+11:16 Банк России
+12:45 CFPB и соглашение ЕС
+14:27 Что меняется для человека
+15:17 Точное поручение, порог и лимит
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>Ирина поручила ИИ-агенту оплатить счёт постоянного поставщика, не больше 87 тысяч рублей, по реквизитам из письма. За ночь пришло два похожих письма, агент оплатил чужое токеном карты. Как откатывают такой платёж и где кончается помощь агенту?</itunes:summary>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep25-platyozh-ushyol-ne-tuda-nostress.mp3" type="audio/mpeg" length="23956691"/>
+      <guid isPermaLink="false">magiik-ep25-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 11:25:59 +0300</pubDate>
+      <itunes:duration>0:16:18</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep25-cover.jpg"/>
+      <link>https://t.me/aimageek/502</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Семьдесят два яйца</title>
       <description>Сценарий написан заранее, голос синтезирован. Медоед и Эгида.
