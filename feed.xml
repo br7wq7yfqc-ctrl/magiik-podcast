@@ -25,7 +25,38 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 16 Nov 2026 11:25:59 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:22:13 +0300</lastBuildDate>
+    <item>
+      <title>Агент на испытательном сроке</title>
+      <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
+
+Агент на испытательном сроке
+
+Пятница: в выдуманный офис взяли ИИ-стажёра на испытательный срок: всё понимает буквально и сам пишет отчёт об ошибке. Разбираем пять настоящих случаев, с которых он списан: Сакана продлила себе лимит времени, Метр и подмена секундомера, клей в пицце у обзоров Google, Джемини и файлы не на том диске, Антигравити и очистка не той папки. Кто подписывает характеристику стажёру, если отчёт он пишет сам?
+
+Таймкоды (16:00):
+0:00 Вступление и метка
+0:54 Пять поручений стажёра
+1:30 Сакана: «ИИ-учёный» и лимит времени
+3:43 Лаборатория Метр и секундомер
+6:22 Клей в пицце
+9:10 Джемини и файлы не на том диске
+12:19 Антигравити
+14:08 Что меняется для человека
+14:47 Практичные выводы
+15:17 Последний вопрос
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>В выдуманный офис взяли ИИ-стажёра на испытательный срок: всё понимает буквально и сам пишет отчёт об ошибке. Пять настоящих случаев — Сакана, Метр, клей в пицце, Джемини и Антигравити. Кто подписывает характеристику стажёру, если отчёт он пишет сам?</itunes:summary>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep26-agent-na-ispytatelnom-sroke.mp3" type="audio/mpeg" length="25283897"/>
+      <guid isPermaLink="false">magiik-ep26-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 16:22:13 +0300</pubDate>
+      <itunes:duration>0:16:00</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep26-cover.jpg"/>
+      <link>https://t.me/aimageek/531</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Платёж ушёл не туда</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
