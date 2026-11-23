@@ -25,7 +25,50 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 16:22:13 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:20:44 +0300</lastBuildDate>
+    <item>
+      <title>Три формы обучения</title>
+      <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
+
+Три формы обучения
+
+Позиция Медоеда: служащим дали ассистента, но времени учиться на своих рабочих задачах не выделили. В одном ведомстве перед доступом был обязательный тест, и проверял он знание правил испытания. В общей оценке у прошедших три формы обучения и больше уверенными себя чувствовали 75 процентов, у прошедших одну форму на 28 пунктов меньше. Это связь по самооценке, а не доказанный эффект обучения.
+
+Таймкоды (15:32):
+0:00 Вступление и метка
+0:25 Полгода с ассистентом: кто и что получил
+2:08 Анкеты: час в день, но каждый день пользуется каждый третий
+3:13 Почему трудно ставить задачу ассистенту
+4:32 Одно ведомство: обязательный тест и ожидания
+6:01 Итог испытания и разочарование
+7:33 Чемпионы и поддержка на бумаге
+8:34 Ограничения самого инструмента
+9:43 Три формы обучения и больше
+11:26 Исследование из Дании
+12:43 Что меняется для любого человека
+13:46 Четыре шага
+14:53 Последний вопрос
+
+Программа ученИИе: https://aimageek-learn.vercel.app
+
+Источники:
+https://www.dta.gov.au/articles/evaluation-whole-government-trial-generative-ai-now-available
+https://www.digital.gov.au/initiatives/copilot-trial/summary-evaluation-findings/cts-evaluation-findings
+https://www.digital.gov.au/initiatives/copilot-trial/microsoft-365-copilot-evaluation-report-full/whole-government-adoption-generative-ai
+https://evaluation.treasury.gov.au/sites/evaluation.treasury.gov.au/files/2025-02/evaluation-generative-artificial-intelligence.pdf
+https://www.nber.org/papers/w33777
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>Позиция Медоеда: служащим дали ассистента, но времени учиться на своих рабочих задачах не выделили. В одном ведомстве перед доступом был обязательный тест, и проверял он знание правил испытания. У прошедших три формы обучения и больше уверенными себя чувствовали 75 процентов, у прошедших одну форму на 28 пунктов меньше. Это связь по самооценке, а не доказанный эффект обучения.</itunes:summary>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep27-tri-formy-obucheniya.mp3" type="audio/mpeg" length="22714371"/>
+      <guid isPermaLink="false">magiik-ep27-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 12:20:44 +0300</pubDate>
+      <itunes:duration>0:15:32</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep27-cover.jpg"/>
+      <link>https://t.me/aimageek/577</link>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Агент на испытательном сроке</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
