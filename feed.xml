@@ -25,7 +25,45 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <atom:link href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 23 Nov 2026 12:20:44 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:55:17 +0300</lastBuildDate>
+    <item>
+      <title>Чаевые для нейросети и другие приметы</title>
+      <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
+
+Чаевые для нейросети и другие приметы
+
+Пятница: Эгида листает выдуманную тетрадь примет — что сказать нейросети, чтобы она отвечала лучше. Медоед рассказывает, как эти приметы проверили: угрозы и чаевые до триллиона долларов в отчёте Уортона, письмо про отключение, которое отвлекло Джемини от вопроса, «больная мама» в подсказке Виндсёрфа и «зимняя гипотеза» о ленивом ЧатДжиПиТи в декабре. Примета остаётся приметой, пока её не проверили на своих задачах несколько раз с ней и без неё.
+
+Таймкоды (11:34):
+0:00 Вступление и метка
+0:18 Тетрадь примет: «пожалуйста»
+1:17 Чаевые
+2:22 Брин и угрозы
+3:11 Отчёт Уортона
+4:05 Письмо про отключение
+5:30 Мама и миллиард в Виндсёрфе
+7:36 Зимняя гипотеза
+9:17 Что меняется для человека
+9:45 Простые проверки
+10:24 Суперзапрос и «спасибо»
+
+Источники:
+https://www.theregister.com/software/2025/05/28/sergey-brin-suggests-threatening-ai-for-better-results/1059816
+https://arxiv.org/abs/2508.00614
+https://simonwillison.net/2025/Feb/25/leaked-windsurf-prompt/
+https://arstechnica.com/information-technology/2023/12/is-chatgpt-becoming-lazier-because-its-december-people-run-tests-to-find-out/
+https://www.usatoday.com/story/tech/2025/04/22/please-thank-you-chatgpt-openai-energy-costs/83207447007/
+
+Слушать в Яндекс Музыке: https://music.yandex.ru/album/43738527</description>
+      <itunes:summary>Эгида листает выдуманную тетрадь примет, Медоед рассказывает, как их проверили: чаевые и угрозы у Уортона, письмо про отключение, «больная мама» в подсказке Виндсёрфа и «зимняя гипотеза». Сценарий написан заранее, наш голос синтезирован.</itunes:summary>
+      <enclosure url="https://br7wq7yfqc-ctrl.github.io/magiik-podcast/audio/magiik-ep28-chaevye-dlya-neyroseti.mp3" type="audio/mpeg" length="16981978"/>
+      <guid isPermaLink="false">magiik-ep28-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 12:55:17 +0300</pubDate>
+      <itunes:duration>0:11:34</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/br7wq7yfqc-ctrl/magiik-podcast@main/img/ep28-cover.jpg"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Три формы обучения</title>
       <description>Сценарий написан заранее, наш голос синтезирован. Медоед и Эгида.
